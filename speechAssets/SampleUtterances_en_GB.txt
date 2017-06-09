@@ -1,0 +1,14 @@
+GetNewFactIntent a fact
+GetNewFactIntent a bee fact
+GetNewFactIntent tell me a fact
+GetNewFactIntent tell me a bee fact
+GetNewFactIntent give me a fact
+GetNewFactIntent give me a bee fact
+GetNewFactIntent tell me trivia
+GetNewFactIntent tell me a bee trivia
+GetNewFactIntent give me trivia
+GetNewFactIntent give me a bee trivia
+GetNewFactIntent give me some information
+GetNewFactIntent give me some bee information
+GetNewFactIntent tell me something
+GetNewFactIntent give me something
